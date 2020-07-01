@@ -3,6 +3,7 @@
 ### Previous Meetings
  №  | Date | Notes | Recording | Transcript
  ---|---|---|---|---|
+ 33 | Mon, Jun 29, 2020 at 13:00 UTC | [notes](https://notes.status.im/core-dev-call_33?view) | [video](https://www.youtube.com/watch?v=czW_lvr6h7c)
  32 | Mon, Jun 15, 2020 at 13:00 UTC | [notes](https://notes.status.im/core-dev-call_32#) | [video](https://youtu.be/EVUWyO7IzhM) |
  31 | Mon, Jun 1, 2020 at 13:00 UTC | [notes](https://notes.status.im/core-dev-call_31#) | [video](https://youtu.be/yEKMJ1cdfRg) |
 30 | Mon, May 18, 2020 at 13:00 UTC | [notes](https://notes.status.im/core-dev-call_30) | [video](https://youtu.be/B3eqK_RvcH0) | [transcript]
